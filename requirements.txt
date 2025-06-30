@@ -1,0 +1,10 @@
+# Core libraries
+openai>=1.0.0           # OpenAI Python SDK :contentReference[oaicite:0]{index=0}
+python-dotenv>=1.0.0    # Load .env files :contentReference[oaicite:1]{index=1}
+requests>=2.31.0
+
+# Agent stack
+langchain>=0.2.0
+langchain-openai>=0.1.0 :contentReference[oaicite:2]{index=2}
+langchain-mcp-adapters>=0.1.7 :contentReference[oaicite:3]{index=3}
+fastmcp>=2.0.0 :contentReference[oaicite:4]{index=4}

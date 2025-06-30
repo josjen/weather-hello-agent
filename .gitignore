@@ -1,0 +1,32 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual-envs
+.venv/
+.env/                # if you keep per-project virtual envs here
+
+# Editors & IDEs
+.vscode/
+.idea/
+
+# Secrets / local overrides
+.env
+.env.*
+
+# OS cruft
+.DS_Store
+Thumbs.db# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual envs
+.venv/
+env/
+# Editors
+*.swp
+.idea/
+.vscode/
