@@ -20,3 +20,6 @@ pip install -r requirements.txt
 cp .env.example .env      # put your keys here
 python -m weatherhello.basic_server &  # run in background
 python -m weatherhello.basic_agent     # talk to the agent
+
+## Support me
+coff.ee/josjen
